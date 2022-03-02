@@ -13,7 +13,7 @@ Create account on Alchemy: https://alchemy.com
 Create account on MetaMask: https://metamask.io
 
 
-## Add Either from a Faucent
+## Add Ether from a Faucet
 
 If deploying to the Ropsten network, use a faucet to add some funds to the MetaMask account.  - https://faucet.egorfine.com
 
@@ -27,7 +27,7 @@ cd nft
 npm init
 ```
 
-## Compaile the contract with Hardhat
+## Compile the contract with Hardhat
 
 Hardhat is the development environment to compile, deploy, test and debug Ethereum software. This helsp build smart contracts and dApps before deploying.
 
